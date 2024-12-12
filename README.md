@@ -5,7 +5,7 @@ https://github.com/w-okada/voice-changer
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/freyzamarshall02/w-okadavoicechangercolab/blob/main/Okada_Voice_Changer_Colab_Unofficial.ipynb?authuser=2#scrollTo=N2c7UpbA3eYr)
 
 ### Support Me Via Ko-Fi
-  <a href="https://ko-fi.com/freyzamarshall" target="_parent"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" align="left" alt="Open"></a>
+- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/freyzamarshall)
 
 ### My Youtube Channel
   <a href="https://www.youtube.com/@FreyzaMarshall_" target="_parent"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="left" alt="Open"></a>
